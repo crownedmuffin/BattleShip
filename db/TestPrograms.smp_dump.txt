@@ -1,0 +1,6 @@
+
+State Machine - |TestPrograms|y
+Name y.playMode y.startScreen y.result 
+y.startScreen 0 0 0 
+y.playMode 1 1 0 
+y.result 0 1 1 
