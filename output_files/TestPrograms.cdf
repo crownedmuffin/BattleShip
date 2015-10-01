@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP3C16F484) Path("C:/Users/Ryan/Dropbox/Homework/Fall14/ECEN 2350 Digital Logic/Projects/Test_Program/output_files/") File("TestPrograms.sof") MfrSpec(OpMask(1));
+		Device PartName(EP3C16F484) Path("C:/Users/Ryan/Desktop/Test_Program/BattleShip/output_files/") File("TestPrograms.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

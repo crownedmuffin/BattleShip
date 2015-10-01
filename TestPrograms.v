@@ -240,7 +240,7 @@ module TestPrograms(clk0, B, dispHEX0, dispHEX1, dispHEX2, dispHEX3);
 					lastIndex = 0;
 					shipLength = 2;
 					
-					lastShip = 1;
+					//lastShip = 1; 10/1/2015 Uncomment this 
 					//Y = playMode;
 					//nextShipID = 6;
 				end
